@@ -2357,6 +2357,10 @@ comands__mail
     padding: 0;
   }
 
+  .section-levels__wrapper .section-levels__nav {
+    padding-top: 0;
+  }
+
   .descriptions-levels__all {
     top: -30px;
   }

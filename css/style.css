@@ -773,6 +773,7 @@ main {
   font-size: 20px;
   color: #010047;
   padding: 22px 85px 22px 45px;
+  cursor:pointer;
 }
 
 .section-levels__item span {
